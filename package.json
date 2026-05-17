@@ -1,0 +1,13 @@
+{
+  "name": "dacc",
+  "version": "1.0.0",
+  "description": "DAC Inception — auto faucet + crate, run 24/7",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.4.5"
+  }
+}
