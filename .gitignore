@@ -2,3 +2,4 @@ node_modules/
 .env
 *.log
 wallets.txt
+wallets-cappuccino.txt
